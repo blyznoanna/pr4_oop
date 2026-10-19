@@ -1,0 +1,15 @@
+C:\Users\Аня\source\repos\pr4(1)_OOP\pr4(1)_OOP\bin\Debug\net10.0\pr4(1)_OOP.exe
+C:\Users\Аня\source\repos\pr4(1)_OOP\pr4(1)_OOP\bin\Debug\net10.0\pr4(1)_OOP.deps.json
+C:\Users\Аня\source\repos\pr4(1)_OOP\pr4(1)_OOP\bin\Debug\net10.0\pr4(1)_OOP.runtimeconfig.json
+C:\Users\Аня\source\repos\pr4(1)_OOP\pr4(1)_OOP\bin\Debug\net10.0\pr4(1)_OOP.dll
+C:\Users\Аня\source\repos\pr4(1)_OOP\pr4(1)_OOP\bin\Debug\net10.0\pr4(1)_OOP.pdb
+C:\Users\Аня\source\repos\pr4(1)_OOP\pr4(1)_OOP\obj\Debug\net10.0\pr4(1)_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Аня\source\repos\pr4(1)_OOP\pr4(1)_OOP\obj\Debug\net10.0\pr4(1)_OOP.AssemblyInfoInputs.cache
+C:\Users\Аня\source\repos\pr4(1)_OOP\pr4(1)_OOP\obj\Debug\net10.0\pr4(1)_OOP.AssemblyInfo.cs
+C:\Users\Аня\source\repos\pr4(1)_OOP\pr4(1)_OOP\obj\Debug\net10.0\pr4(1)_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Аня\source\repos\pr4(1)_OOP\pr4(1)_OOP\obj\Debug\net10.0\pr4(1)_OOP.dll
+C:\Users\Аня\source\repos\pr4(1)_OOP\pr4(1)_OOP\obj\Debug\net10.0\refint\pr4(1)_OOP.dll
+C:\Users\Аня\source\repos\pr4(1)_OOP\pr4(1)_OOP\obj\Debug\net10.0\pr4(1)_OOP.pdb
+C:\Users\Аня\source\repos\pr4(1)_OOP\pr4(1)_OOP\obj\Debug\net10.0\pr4(1)_OOP.genruntimeconfig.cache
+C:\Users\Аня\source\repos\pr4(1)_OOP\pr4(1)_OOP\obj\Debug\net10.0\ref\pr4(1)_OOP.dll
+C:\Users\Аня\source\repos\pr4(1)_OOP\pr4(1)_OOP\obj\Debug\net10.0\pr4(1)_OOP.csproj.Up2Date
