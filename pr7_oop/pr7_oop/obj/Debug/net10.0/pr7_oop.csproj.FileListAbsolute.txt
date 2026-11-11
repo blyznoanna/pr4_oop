@@ -1,0 +1,15 @@
+C:\Users\Аня\source\repos\pr7_oop\pr7_oop\bin\Debug\net10.0\pr7_oop.exe
+C:\Users\Аня\source\repos\pr7_oop\pr7_oop\bin\Debug\net10.0\pr7_oop.deps.json
+C:\Users\Аня\source\repos\pr7_oop\pr7_oop\bin\Debug\net10.0\pr7_oop.runtimeconfig.json
+C:\Users\Аня\source\repos\pr7_oop\pr7_oop\bin\Debug\net10.0\pr7_oop.dll
+C:\Users\Аня\source\repos\pr7_oop\pr7_oop\bin\Debug\net10.0\pr7_oop.pdb
+C:\Users\Аня\source\repos\pr7_oop\pr7_oop\obj\Debug\net10.0\pr7_oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Аня\source\repos\pr7_oop\pr7_oop\obj\Debug\net10.0\pr7_oop.AssemblyInfoInputs.cache
+C:\Users\Аня\source\repos\pr7_oop\pr7_oop\obj\Debug\net10.0\pr7_oop.AssemblyInfo.cs
+C:\Users\Аня\source\repos\pr7_oop\pr7_oop\obj\Debug\net10.0\pr7_oop.csproj.CoreCompileInputs.cache
+C:\Users\Аня\source\repos\pr7_oop\pr7_oop\obj\Debug\net10.0\pr7_oop.dll
+C:\Users\Аня\source\repos\pr7_oop\pr7_oop\obj\Debug\net10.0\refint\pr7_oop.dll
+C:\Users\Аня\source\repos\pr7_oop\pr7_oop\obj\Debug\net10.0\pr7_oop.pdb
+C:\Users\Аня\source\repos\pr7_oop\pr7_oop\obj\Debug\net10.0\pr7_oop.genruntimeconfig.cache
+C:\Users\Аня\source\repos\pr7_oop\pr7_oop\obj\Debug\net10.0\ref\pr7_oop.dll
+C:\Users\Аня\source\repos\pr7_oop\pr7_oop\obj\Debug\net10.0\pr7_oop.csproj.Up2Date
